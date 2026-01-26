@@ -2,23 +2,10 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30"> 
   <h1 align="center">Hey there, I'm Dev Jangam!</h1>
 
-  <h3>🎓 Third Year B.Tech CSE(AI) @ VIT Pune</h3>
+  <h3>🎓 Third Year B.Tech CSE (Artificial Intelligence) @ VIT Pune</h3>
   <p>
     <b>Full Stack Developer | AI Engineer | Tech Enthusiast</b>
   </p>
-
-  <a href="https://www.linkedin.com/in/dev-jangam-99b1b5288">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:dev.jangam23@vit.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/djangam4805/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://drive.google.com/file/d/1rRlMGQwLf22sRY0KrKxpJJcF4uHuxH1c/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" />
-  </a>
 </div>
 
 <br/>
@@ -36,18 +23,16 @@ Currently, I am:
 ## 🛠️ Tech Stack
 
 <div align="center">
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,react,nodejs,express,tailwind,fastapi,mongo,aws,firebase,mysql&perline=7" />
-</a>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,react,nodejs,express,tailwind,fastapi,mongo,aws,firebase,mysql&perline=7" />
+  </a>
 </div>
 
 ---
 
 ## 📌 Notable Projects
 
-### 🎓 **EduAI** (Internship Project 2025-2026)
+### 🎓 **EduAI** (Internship Project)
 *Automated question paper generation and answer sheet evaluation system.*
 * **Tech:** Node.js, Express, React, FastAPI, LangChain, Google Gemini
 * **Key Features:** AI-driven assessment engine, OCR handwriting recognition, Real-time file uploads with SSE.
@@ -93,13 +78,23 @@ Currently, I am:
 
 ## 📫 Connect with Me
 
-<div align="left">
+<div align="center">
 
-| Platform | Link |
-| :---: | :--- |
-| **Email** | [dev.jangam23@vit.edu](mailto:dev.jangam23@vit.edu) |
-| **LinkedIn** | [linkedin.com/in/dev-jangam](https://www.linkedin.com/in/dev-jangam-99b1b5288) |
-| **LeetCode** | [leetcode.com/DevJangam48](https://leetcode.com/u/djangam4805/) |
+  <a href="mailto:dev.jangam23@vit.edu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/dev-jangam-99b1b5288">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/djangam4805/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <a href="[YOUR_RESUME_LINK_HERE](https://drive.google.com/file/d/1rRlMGQwLf22sRY0KrKxpJJcF4uHuxH1c/view?usp=sharing)">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+  </a>
 
 </div>
 
