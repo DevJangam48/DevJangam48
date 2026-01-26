@@ -7,7 +7,7 @@
     <b>Full Stack Developer | AI Engineer | Tech Enthusiast</b>
   </p>
 
-  <a href="www.linkedin.com/in/dev-jangam-99b1b5288">
+  <a href="https://www.linkedin.com/in/dev-jangam-99b1b5288">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:dev.jangam23@vit.edu">
@@ -15,6 +15,9 @@
   </a>
   <a href="https://leetcode.com/u/djangam4805/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://drive.google.com/file/d/1rRlMGQwLf22sRY0KrKxpJJcF4uHuxH1c/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=read-the-docs&logoColor=white" />
   </a>
 </div>
 
@@ -32,26 +35,11 @@ Currently, I am:
 
 ## 🛠️ Tech Stack
 
-<div align="left">
+<div align="center">
 
-### **Languages**
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-### **Frontend & Backend**
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-### **Database & Cloud**
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,react,nodejs,express,tailwind,fastapi,mongo,aws,firebase,mysql&perline=7" />
+</a>
 
 </div>
 
@@ -59,11 +47,10 @@ Currently, I am:
 
 ## 📌 Notable Projects
 
-### 🎓 **EduAI** (Internship Project)
+### 🎓 **EduAI** (Internship Project 2025-2026)
 *Automated question paper generation and answer sheet evaluation system.*
 * **Tech:** Node.js, Express, React, FastAPI, LangChain, Google Gemini
 * **Key Features:** AI-driven assessment engine, OCR handwriting recognition, Real-time file uploads with SSE.
-
 
 ### 📄 **DocVerify**
 *A document verification platform with role-based admin access.*
@@ -106,12 +93,12 @@ Currently, I am:
 
 ## 📫 Connect with Me
 
-<div align="center">
+<div align="left">
 
 | Platform | Link |
 | :---: | :--- |
 | **Email** | [dev.jangam23@vit.edu](mailto:dev.jangam23@vit.edu) |
-| **LinkedIn** | [linkedin.com/in/dev-jangam](www.linkedin.com/in/dev-jangam-99b1b5288) |
+| **LinkedIn** | [linkedin.com/in/dev-jangam](https://www.linkedin.com/in/dev-jangam-99b1b5288) |
 | **LeetCode** | [leetcode.com/DevJangam48](https://leetcode.com/u/djangam4805/) |
 
 </div>
