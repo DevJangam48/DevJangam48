@@ -83,13 +83,13 @@ Currently, I am:
   <a href="mailto:dev.jangam23@vit.edu">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/dev-jangam-99b1b5288">
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/dev-jangam-99b1b5288">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://leetcode.com/u/djangam4805/">
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://leetcode.com/u/djangam4805/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="leetcode logo"  />
   </a>
-  <a href="https://drive.google.com/file/d/1rRlMGQwLf22sRY0KrKxpJJcF4uHuxH1c/view?usp=sharing">
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1rRlMGQwLf22sRY0KrKxpJJcF4uHuxH1c/view?usp=sharing">
     <img src="https://img.icons8.com/fluent/48/000000/resume.png" height="40" alt="resume logo"  />
   </a>
 
