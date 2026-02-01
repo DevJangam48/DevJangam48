@@ -69,11 +69,11 @@ Currently, I am:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevJangam48&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&v=2" height="160" alt="Dev's Github Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJangam48&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&v=2" height="160" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevJangam48&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevJangam48&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
+</p>
+
 
 <br/>
 
