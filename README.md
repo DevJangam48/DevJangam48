@@ -67,8 +67,6 @@ Currently, I am:
 
 ---
 
-<br/>
-
 ## 📫 Connect with Me
 
 <div align="center">
