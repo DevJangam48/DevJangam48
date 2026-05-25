@@ -35,6 +35,10 @@ Currently, I am:
 <div align="center">
   <a href="https://leetcode.com/u/djangam4805/">
     <img src="https://leetcard.jacoblin.cool/djangam4805?theme=dark&font=Karma&ext=contest,heatmap" width="750" alt="Dev Jangam's LeetCode Stats" />
+    <br/><br/>
+    <img src="https://leetcard.jacoblin.cool/djangam4805?theme=dark&font=Karma&ext=contest" width="750" alt="LeetCode Contest Rating" />
+    <br/><br/>
+    <img src="https://leetcard.jacoblin.cool/djangam4805?theme=dark&font=Karma&ext=heatmap" width="750" alt="LeetCode Submission Heatmap" />
   </a>
 </div>
 
