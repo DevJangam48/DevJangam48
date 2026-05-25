@@ -30,13 +30,15 @@ Currently, I am:
 
 ---
 
-## 📈 GitHub & LeetCode Stats
+# 📈 LeetCode Stats
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DevJangam48&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="1000px" src="https://leetcard.jacoblin.cool/djangam4805?theme=unicorn&font=Karma&ext=contest" />
 
-<img height="170em" src="https://leetcard.jacoblin.cool/djangam4805?theme=dark&font=Karma&ext=contest"/>
+<br/><br/>
+
+<img width="1000px" src="https://leetcard.jacoblin.cool/djangam4805?theme=unicorn&font=Karma&ext=heatmap" />
 
 </div>
 
