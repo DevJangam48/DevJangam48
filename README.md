@@ -34,11 +34,7 @@ Currently, I am:
 
 <div align="center">
 
-<img width="1000px" src="https://leetcard.jacoblin.cool/djangam4805?theme=unicorn&font=Karma&ext=contest" />
-
-<br/><br/>
-
-<img width="1000px" src="https://leetcard.jacoblin.cool/djangam4805?theme=unicorn&font=Karma&ext=heatmap" />
+<img width="750" src="https://leetcard.jacoblin.cool/djangam4805?theme=dark&font=Karma&ext=contest,heatmap" />
 
 </div>
 
