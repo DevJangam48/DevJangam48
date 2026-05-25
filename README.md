@@ -42,15 +42,28 @@ Currently, I am:
 
 ## 📌 Notable Projects
 
-### 🎓 **EduAI** (Internship Project)
-*Automated question paper generation and answer sheet evaluation system.*
-* **Tech:** Node.js, Express, React, FastAPI, LangChain, Google Gemini
-* **Key Features:** AI-driven assessment engine, OCR handwriting recognition, Real-time file uploads with SSE.
+### 🎓 **EduAI** (Internship Project) &nbsp;•&nbsp; [📄 View Completion Certificate](https://drive.google.com/file/d/12hXrfsyWqnPpCo1fL1aMxSqLGpBUAXP8/view?usp=sharing)
+*An automated, enterprise-grade question paper generation and answer sheet evaluation ecosystem integrated directly into the client's production environment.*
+
+* **Tech Stack:** Node.js, Express.js, React (Vite), Material UI, FastAPI, LangChain, Google Gemini, MongoDB, Firebase Auth, Server-Sent Events (SSE)
+* **Key Achievements & Features:**
+  * **Scalable Backend Architecture:** Architected a robust full-stack solution using Node.js/Express with a modular controller-based pattern to handle automated paper generation pipelines.
+  * **AI & OCR Integration:** Integrated a Retrieval-Augmented Generation (RAG) assessment engine built on FastAPI and LangChain leveraging Google Gemini for intelligent paper generation and OCR handwriting recognition for automated evaluations.
+  * **Database Architecture:** Designed optimized MongoDB schemas mapping complex, multi-tenant academic relationships among schools, classes, textbooks, generated exam papers, and performance analytics.
+  * **Advanced UI & Real-Time Sync:** Built a responsive React/Material UI interface with global state managed via React Context and implemented Server-Sent Events (SSE) for seamless, real-time file upload tracking.
+  * **Enterprise Security:** Engineered a multi-tier Role-Based Access Control (RBAC) system utilizing Firebase Authentication coupled with custom JSON Web Token (JWT) verification middleware.
+
+---
 
 ### 📄 **DocVerify**
-*A document verification platform with role-based admin access.*
-* **Tech:** React (Vite), Express, AWS S3, DynamoDB
-* **Key Features:** Secure RBAC system, Presigned URLs for security, Automated notifications via Resend API.
+*A secure, cloud-native document verification platform featuring strict role-based access controls for academic administrative review pipelines.*
+
+* **Tech Stack:** React (Vite), Express.js, AWS S3, Amazon DynamoDB, Multer, Resend API
+* **Key Achievements & Features:**
+  * **Cloud Storage Pipeline:** Engineered a resilient file processing pipeline leveraging Multer middleware seamlessly integrated with AWS S3 for secure document handling.
+  * **Optimized Metadata Layer:** Structured a high-throughput, non-relational storage model in Amazon DynamoDB to log and audit incoming student document metadata.
+  * **Secured Access Controls:** Hardened the file-sharing architecture by implementing short-lived AWS S3 Presigned URLs, ensuring documents are strictly accessible to authorized admin reviewers.
+  * **Automated Dispatch Engine:** Configured an automated notification system utilizing the Resend API to trigger real-time, event-driven updates to users regarding document status changes.
 
 ---
 
@@ -90,7 +103,7 @@ Currently, I am:
   &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://leetcode.com/u/djangam4805/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="leetcode logo"  />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1rRlMGQwLf22sRY0KrKxpJJcF4uHuxH1c/view?usp=sharing">
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://drive.google.com/file/d/1jyNMcD5iXOssTsKxFYiKp41fPvHNy9gV/view?usp=sharing">
     <img src="https://img.icons8.com/fluent/48/000000/resume.png" height="40" alt="resume logo"  />
   </a>
 
