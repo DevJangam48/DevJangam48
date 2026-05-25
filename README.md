@@ -33,9 +33,10 @@ Currently, I am:
 # 📈 LeetCode Stats
 
 <div align="center">
-
-<img width="750" src="https://leetcard.jacoblin.cool/djangam4805?theme=dark&font=Karma&ext=contest,heatmap" />
-
+  <a href="https://leetcode.com/u/djangam4805/">
+    <img src="https://leetcode-readme-stats.vercel.app/api?username=djangam4805&theme=dark&ext=contest" alt="Dev's LeetCode Stats" width="750" />
+    <img src="https://leetcode-readme-stats.vercel.app/api/heatmap?username=djangam4805&theme=dark" alt="LeetCode Heatmap" width="750" />
+  </a>
 </div>
 
 ---
